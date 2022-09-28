@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: azure;
+}
+h1{
+	background-color: darkred;
+	color: white;
+	text-align: center;
+	font-family: '黑体';
+	padding:  20px 0 20px 0;
+}
+h2{
+	font-family: '幼圆';
+	padding-bottom: 15px;
+	margin: 10px 10px 20px 10px;
+	background: url(../img/line.png) repeat-x;
+	background-position: bottom;
+}
+div{
+	padding: 20px 20px 0px 20px;
+	margin: 0px 20px 0px 20px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 14px;
+	background-color: white;
+	font-family: '幼圆';
+}
+p{
+	text-indent: 2em;
+	background-color: white;
+	padding: 0px 0 2em 2em;
+}
+li span{
+	color: gray;
+	text-decoration: underline gray;
+	background-color: white;
+}
+ol{
+	padding-left: 2em;
+	text-align: left;
+	font-family: '幼圆';
+	padding-top: 5px;
+	background-color: white;
+	line-height: 1.5;
+}
+li{
+	background-color: white;
+	font-family: '幼圆';
+}
+ul{
+	padding-left: 20px;
+	background-color: white;
+}
+ul li{
+	list-style-image: url(../img/arrow.png);
+	margin-left: 3em;
+	padding-left: 5px;
+	line-height: 1.5;
+}
+tr{
+	line-height: 30px;
+}
+td{
+	background-color: white;
+}
+th{
+	background-color: white;
+}
+#b{
+	background-color: orange;
+}
+#t1{
+	border: 2px black;
+	border-collapse: collapse;
+	font-size: 14px;
+	text-align: center;
+	margin: 20px;
+	background-color: white;
+	font-family: '幼圆';
+}
+#a{
+	color: white;
+	background-color: gray;
+	width: 12%;
+	font-family: '幼圆';
+}
+#footer{
+	font-size: 10px;
+	color: white;
+	text-align: center;
+	background-color: darkred;
+	padding: 10px;
+}
